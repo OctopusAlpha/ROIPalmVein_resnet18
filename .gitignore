@@ -1,0 +1,11 @@
+/dataset/*
+/checkpoints
+/caffe_model
+/results/*
+/test
+modelTest.zip
+/dataset_roi/*
+/saved_model/*
+__pycache__
+/Origin_Palmvein_ROI
+original_dataset
